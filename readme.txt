@@ -1,5 +1,5 @@
 === User Post Count===
-Contributors: Littleboyjpkp
+Contributors: hacsat
 Tags: post, admin
 Requires at least: 2.7
 Tested up to: 2.7

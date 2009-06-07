@@ -3,7 +3,7 @@
 Plugin Name: User Post count
 Plugin URI:
 Description: Shows the total count of post by author.
-Author: Hacsat
+Author: Littleboy
 Version: 1.0
 Author URI: http://babysofts.com
 */
